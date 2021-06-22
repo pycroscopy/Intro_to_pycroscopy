@@ -7,11 +7,11 @@ Brief Overview of Pycroscopy Package for scientific analysis of nanoscience data
 
 # How to get started
 
-Download Anaconda -> https://www.anaconda.com
+###### Download Anaconda -> https://www.anaconda.com
 
 This should automatically install Anaconda-Navigator and allow you to lauch Jupyther Notebooks.
 
-Install sidpy package -> https://anaconda.org/conda-forge/sidpy
+###### Install sidpy package -> https://anaconda.org/conda-forge/sidpy
 
 # sidpy Notebooks
 Basic Usage: https://pycroscopy.github.io/sidpy/notebooks/00_basic_usage/create_dataset.html
