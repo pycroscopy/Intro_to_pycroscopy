@@ -1,7 +1,5 @@
 # Intro_to_pycroscopy
-Introduction to the Pycroscopy Ecosystem
-(https://pycroscopy.github.io/pycroscopy/ecosystem.html)
-
+Introduction to the Pycroscopy Ecosystem https://pycroscopy.github.io/pycroscopy/ecosystem.html
 Brief Overview of Pycroscopy Package for scientific analysis of nanoscience data -> https://pycroscopy.github.io/pycroscopy/about.html
 
 # How to get started
@@ -15,7 +13,7 @@ This should automatically install Anaconda-Navigator and allow you to lauch Jupy
 # Notebooks
 
 ## sidpy
-[Basic Usage] (https://pycroscopy.github.io/sidpy/notebooks/00_basic_usage/create_dataset.html)
+Basic Usage -> https://pycroscopy.github.io/sidpy/notebooks/00_basic_usage/create_dataset.html
 
 *These notebooks are available in the files section.*
 
