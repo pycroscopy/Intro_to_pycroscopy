@@ -3,7 +3,7 @@ Introduction to the Pycroscopy Ecosystem
 
 Go to -> https://pycroscopy.github.io/pycroscopy/ecosystem.html
 
-Brief Overview of Pycroscopy Package -> https://pycroscopy.github.io/pycroscopy/about.html
+Brief Overview of Pycroscopy Package for scientific analysis of nanoscience data -> https://pycroscopy.github.io/pycroscopy/about.html
 
 Download Anaconda -> https://www.anaconda.com
 
