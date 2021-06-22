@@ -5,6 +5,8 @@ Go to -> https://pycroscopy.github.io/pycroscopy/ecosystem.html
 
 Brief Overview of Pycroscopy Package for scientific analysis of nanoscience data -> https://pycroscopy.github.io/pycroscopy/about.html
 
+# How to get started
+
 Download Anaconda -> https://www.anaconda.com
 
 Install sidpy package -> https://anaconda.org/conda-forge/sidpy
