@@ -20,3 +20,4 @@ Basic Usage -> https://pycroscopy.github.io/sidpy/notebooks/00_basic_usage/creat
 
 *These notebooks are available in the files section.*
 
+## SciFiReaders
