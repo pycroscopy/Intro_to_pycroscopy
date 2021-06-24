@@ -7,8 +7,7 @@ Homepage -> https://github.com/pycroscopy
 
 # How to get started
 
-Download Anaconda -> https://www.anaconda.com
-
+Download Anaconda -> https://www.anaconda.com 
 ###### This should automatically install Anaconda-Navigator and allow you to lauch Jupyther Notebooks.
 
 Install NumPy -> https://numpy.org/install/
