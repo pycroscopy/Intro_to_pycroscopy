@@ -11,6 +11,7 @@ Download Anaconda -> https://www.anaconda.com
 
 ###### This should automatically install Anaconda-Navigator and allow you to lauch Jupyther Notebooks.
 
+Install NumPy -> https://numpy.org/install/
 Install sidpy package -> https://anaconda.org/conda-forge/sidpy
 
 # Notebooks
