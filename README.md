@@ -27,8 +27,8 @@ Tools for extracting data and metadata from scientific data files
 SciFiReaders is a collection of sidpy.Reader python classes that extract data and metadata from scientific data files. The extracted information are returned as sidpy.Dataset objects which are standardized and exchangable data objects across all packages in the pycroscopy ecosystem.
 
 About -> https://pycroscopy.github.io/SciFiReaders/about.html
-###### Notebok:
-Developing a reader -> https://github.com/pycroscopy/SciFiReaders/blob/master/notebooks/00_developing_a_reader/developing_a_reader.ipynb
+###### Notebook: Developing a reader
+https://github.com/pycroscopy/SciFiReaders/blob/master/notebooks/00_developing_a_reader/developing_a_reader.ipynb
 
 ## pyNSID
 Python framework for storing, visualizing, and processing spectroscopy, imaging or any observational / experimental data
