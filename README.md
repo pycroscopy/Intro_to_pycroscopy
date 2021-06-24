@@ -14,7 +14,7 @@ Install NumPy -> https://numpy.org/install/
 
 Install sidpy package -> https://anaconda.org/conda-forge/sidpy
 
-# Notebooks
+# Repositories & Notebooks
 *These notebooks are available in the files section.*
 
 ## sidpy
