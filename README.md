@@ -14,10 +14,13 @@ Download Anaconda -> https://www.anaconda.com
 Install sidpy package -> https://anaconda.org/conda-forge/sidpy
 
 # Notebooks
+*These notebooks are available in the files section.*
 
 ## sidpy
 Basic Usage -> https://pycroscopy.github.io/sidpy/notebooks/00_basic_usage/create_dataset.html
 
-*These notebooks are available in the files section.*
 
 ## SciFiReaders
+
+
+## pyNSID
