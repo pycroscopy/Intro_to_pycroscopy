@@ -24,3 +24,6 @@ Basic Usage -> https://pycroscopy.github.io/sidpy/notebooks/00_basic_usage/creat
 
 
 ## pyNSID
+Python framework for storing, visualizing, and processing spectroscopy, imaging or any observational / experimental data
+
+Learn more -> https://pycroscopy.github.io/pyNSID/about.html
