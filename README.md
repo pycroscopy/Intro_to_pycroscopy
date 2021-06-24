@@ -15,7 +15,7 @@ Install NumPy -> https://numpy.org/install/
 Install sidpy package -> https://anaconda.org/conda-forge/sidpy
 
 # Repositories & Notebooks
-*These notebooks are available in the files section.*
+*The notebooks for their respective respositories are available in the files section.*
 
 ## sidpy
 Basic Usage -> https://pycroscopy.github.io/sidpy/notebooks/00_basic_usage/create_dataset.html
