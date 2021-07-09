@@ -27,6 +27,7 @@ About: https://pycroscopy.github.io/SciFiReaders/about.html
 ###### • Notebook - Developing a reader: https://github.com/pycroscopy/SciFiReaders/blob/master/notebooks/00_developing_a_reader/developing_a_reader.ipynb
 ###### • Notebook - Using Readers: https://github.com/pycroscopy/SciFiReaders/blob/master/notebooks/01_using_readers/convert_hyperspy.ipynb
 
+Coming soon: short-video with example
 
 ## sidpy
 Python utilities for storing and visualizing Spectroscopic and Imaging Data (SID)
