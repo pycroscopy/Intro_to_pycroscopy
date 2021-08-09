@@ -44,8 +44,23 @@ Python framework for storing, visualizing, and processing spectroscopy, imaging 
 
 About: https://pycroscopy.github.io/pyNSID/about.html
 
-###### • Notebooks - Basic Usage: https://github.com/pycroscopy/pyNSID/tree/master/notebooks/00_basic_usage
-###### • Notebook - Write/read SIDpy Dataset via pyNSID: https://github.com/pycroscopy/pyNSID/blob/master/notebooks/00_basic_usage/write_read_sidpy_dataset.ipynb
+###### • Notebook - Write SIDpy Dataset via pyNSID: https://github.com/pycroscopy/pyNSID/blob/master/notebooks/00_basic_usage/write_read_sidpy_dataset.ipynb
 
 Why not just use h5py? -> https://pycroscopy.github.io/pyNSID/nsid.html
 
+# HDF5 Files
+
+## Fast Force Mapping Example
+After setting your file path as directed in the Basic Usage notebook, use the following command to print out the contents of your HDF5 file:
+```
+usid.hdf_utils.print_tree(h5_f)
+```
+<img width="290" alt="Screen Shot 2021-08-09 at 4 49 54 PM" src="https://user-images.githubusercontent.com/79813375/128772579-671a3597-ff4e-48f7-8a01-c10b0b955c11.png">
+
+Here, you can see that you have two groups or "keys" in your file with the following datasets.
+
+To see the keys and shape of your datasets use the following command:
+```
+print(h5_f.keys())
+print(h5_f['FFM']['Defl'][:].shape, h5_f['FFM']['Drive'][:].shape, h5_f['FFM']['Raw'][:].shape)
+```
