@@ -49,7 +49,7 @@ About: https://pycroscopy.github.io/pyNSID/about.html
 Why not just use h5py? -> https://pycroscopy.github.io/pyNSID/nsid.html
 
 # HDF5 Files
-
+If you already have an HDF5, follow the following structure for identifying contents, shapes of datasets, and plotting.
 ## Fast Force Mapping Example
 After setting your file path as directed in the Basic Usage notebook, use the following command to print out the contents of your HDF5 file:
 ```
