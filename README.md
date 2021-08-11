@@ -48,7 +48,17 @@ About: https://pycroscopy.github.io/pyNSID/about.html
 
 Why not just use h5py? -> https://pycroscopy.github.io/pyNSID/nsid.html
 
-# HDF5 Files
+# HDF5 Files: Heierarchial Data Format Version 5
+An open-source file format that supports large, complect, heterogeneous data. Think of it as a file that has a file directory structure, allowing you to organize data within the file like you would on your own computer.
+
+![image](https://user-images.githubusercontent.com/79813375/129072735-3b06a284-fc8e-4cb1-b011-02a9d3433524.png)
+
+-	There are two important terms you want to recognize within these types of files:
+
+    o	Group: a folder like element within your HDF5 that can contain even more groups OR datasets (referred to as “keys” in python code).
+        
+    o	Dataset: this is the actual data contained within the HDF5 file 
+
 If you already have an HDF5, follow the following structure for identifying contents, shapes of datasets, and plotting.
 ## Fast Force Mapping Example
 After setting your file path as directed in the Basic Usage notebook, use the following command to print out the contents of your HDF5 file:
