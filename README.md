@@ -61,6 +61,8 @@ An open-source file format that supports large, complect, heterogeneous data. Th
 
 If you already have an HDF5, follow the following structure for identifying contents, shapes of datasets, and plotting.
 ## Fast Force Mapping Example
+In this example, we are using a small sample of PDMS Gel from Bruker premounted on a 12mm magnetic disk.
+
 After setting your file path as directed in the Basic Usage notebook, use the following command to print out the contents of your HDF5 file:
 ```
 usid.hdf_utils.print_tree(h5_f)
@@ -74,3 +76,5 @@ To see the keys and shape of your datasets use the following command:
 print(h5_f.keys())
 print(h5_f['FFM']['Defl'][:].shape, h5_f['FFM']['Drive'][:].shape, h5_f['FFM']['Raw'][:].shape)
 ```
+The following Jupyter Notebook will walk through the whole process of visualizing your data:
+###### • Notebook - 
